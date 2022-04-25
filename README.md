@@ -19,7 +19,7 @@ Learning and improving every day, studying MERN stack and english at university
                                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
                     </p>
                     
-                  ### Socials
+                   Socials
                   
                   
                 <p align="left">
