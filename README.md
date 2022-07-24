@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Web Developer
 -------------
 
-Learning and improving every day, studying MERN stack and english at university
+Learning and improving every day, studying MERN stack. Looking for my first job.
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [My Porfolio web](http://xweret.github.io/gabrielGarofalo/)
@@ -12,7 +12,7 @@ Learning and improving every day, studying MERN stack and english at university
 * 🚀  I'm currently working on [My repositories](http://github.com/xweret?tab=repositories)
 * 🧠  I'm learning Boostrap & React
 * 🤝  I'm open to collaborating on Any projects which let me learn
-* ⚡  I'm in love with cryptocurrencies.
+* ⚡  I love to learn about crypto, history and a lot of diferent things.
 
 ### Skills
 
