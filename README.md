@@ -11,7 +11,7 @@ Learning and improving every day, studying MERN stack. Looking for my first job.
 * ✉️  You can contact me at [gabrielgarofalodev@gmail.com](mailto:gabrielgarofalodev@gmail.com)
 * 🚀  I'm currently working on [My repositories](http://github.com/xweret?tab=repositories)
 * 🧠  I'm learning Boostrap & React
-* 🤝  I'm open to collaborating on Any projects which let me learn
+* 🤝  I'm open to collaborating on Any projects which let me learn.
 * ⚡  I love to learn about crypto, history and a lot of diferent things.
 
 ### Skills
